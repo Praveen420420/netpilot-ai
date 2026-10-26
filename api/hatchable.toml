@@ -1,0 +1,3 @@
+[ai]
+required = true
+description = "Powers NetPilot AI's networking assistant. Configure a supported AI provider in Hatchable..."
